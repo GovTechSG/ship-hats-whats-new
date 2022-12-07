@@ -1,4 +1,5 @@
 **What's New**
+- [Release 3.22.21 and 3.22.22](3-22-21-and-3-22-22)
 - [Release 3.21.20 and 3.21.21](3-21-20-and-3-21-21)
 - [Release 3.20.19 and 3.20.20](3-20-19-and-3-20-20)
 
@@ -18,6 +19,5 @@
 3. Make sure that new release is added at the top to maintain latest release on top.
 4. Maintain consistency with earlier released doc/file in terms of naming convention as well as writing style.
 
-- [Release 3.22.21 and 3.22.22](3-22-21-and-3-22-22)
 
 -->  
